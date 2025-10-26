@@ -6,7 +6,9 @@ Yes, I can speak Thai.
 
 Step 1 Visual Studio Code
 
-https://mail.google.com/mail/u/0?ui=2&ik=9cd0642d8e&attid=0.1&permmsgid=msg-a:r9033936458752752500&th=19a209a2992fa973&view=att&disp=safe&realattid=f_mh7ptvxn0&zw
+<img width="1920" height="1080" alt="vault training (1)" src="https://github.com/user-attachments/assets/2fc5e9ea-5393-4029-a0af-b5325b489e0d" />
+
+ภาพที่ 1
 
 ข้อนี้จะมีไฟล์ที่มีชื่อว่า "VaultDoorTraining.java" มาให้
 
