@@ -7,11 +7,13 @@ Yes, I can speak Thai.
 Step 1 Visual Studio Code
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7356bd48-7e61-4946-bb8c-8de209255c89" />
+
 ภาพที่ 1
 
 ข้อนี้จะมีไฟล์ที่มีชื่อว่า "VaultDoor4.java" มาให้ ให้เปิดไฟล์นี้ใน Visual Studio Code ดังภาพที่ 1
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d099b11-caa3-4e70-8bef-2d57ee766a65" />
+
 ภาพที่ 2
 
 แล้วเลื่อนลงมา ดังภาพที่ 2
@@ -23,6 +25,7 @@ Step 2 Decimal
 เอาสัญลักษณ์ลูกน้ำออก จากนั้น copy ส่วนนี้ไปถอดรหัส
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43fd573e-f292-417c-b6a1-d231875ed903" />
+
 ภาพที่ 3
 
 โดยการเข้า CyberChef ไปที่ Operations แล้วเลือก From Decimal จะได้ผล ดังภาพที่ 3
@@ -36,6 +39,7 @@ Step 3 Hex
 เอาสัญลักษณ์ลูกน้ำออก จากนั้น copy ส่วนนี้ไปถอดรหัส
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b36963ab-9220-4b30-9f36-f87121f48989" />
+
 ภาพที่ 4
 
 โดยการเข้า CyberChef ไปที่ Operations แล้วเลือก From Hex จะได้ผล ดังภาพที่ 4
@@ -49,6 +53,7 @@ Step 4 Octal
 เอาสัญลักษณ์ลูกน้ำออก จากนั้น copy ส่วนนี้ไปถอดรหัส
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/528c8dd7-76c9-4be2-ace6-9f40da472a35" />
+
 ภาพที่ 5
 
 โดยการเข้า CyberChef ไปที่ Operations แล้วเลือก From Octal จะได้ผล ดังภาพที่ 5
