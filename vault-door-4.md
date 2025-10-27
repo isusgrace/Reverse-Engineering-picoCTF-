@@ -35,7 +35,7 @@ Step 3 Hex
 ```
 เอาสัญลักษณ์ลูกน้ำออก จากนั้น copy ส่วนนี้ไปถอดรหัส
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02195d47-c2aa-42aa-a109-80eaa3d41f5a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b36963ab-9220-4b30-9f36-f87121f48989" />
 ภาพที่ 4
 
 โดยการเข้า CyberChef ไปที่ Operations แล้วเลือก From Hex จะได้ผล ดังภาพที่ 4
